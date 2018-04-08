@@ -2,6 +2,9 @@
 const config = require('../templates')
 
 module.exports = () => {
-  console.log(config.tpl)
+  const templateList = Object.keys(config.tpl);
+  templateList.forEach((template, index) => {
+    console.log(template)
+  })
   process.exit()
 }

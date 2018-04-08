@@ -1,15 +1,15 @@
-# distview-cli
-前端展示框架脚手架
+# quarks-cli
+前端框架脚手架
 
 ## 安装
 
-`npm install distview-cli -g`
+`npm install quarks-cli -g`
 
 or 
 
 `git clone https://github.com/maolf/distview-cli.git`
 
-`cd scion && npm install`
+`cd quark && npm install`
 
 `npm link`
 
@@ -17,7 +17,7 @@ or
 
 打开终端控制台，输入distview 或 distview -h,你会看到以下内容
 
-![alt text](/static/distview.png)
+![alt text](/static/ distview.png)
 
 ### 添加模版项目
 
