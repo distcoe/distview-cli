@@ -9,7 +9,7 @@ or
 
 `git clone https://github.com/maolf/distview-cli.git`
 
-`cd scion && npm install`
+`cd quark-cli && npm install`
 
 `npm link`
 
