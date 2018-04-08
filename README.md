@@ -5,14 +5,6 @@
 
 `npm install quarks-cli -g`
 
-or 
-
-`git clone https://github.com/maolf/distview-cli.git`
-
-`cd quark && npm install`
-
-`npm link`
-
 ## 用法
 
 打开终端控制台，输入distview 或 distview -h,你会看到以下内容
