@@ -9,7 +9,7 @@
 
 打开终端控制台，输入distview 或 distview -h,你会看到以下内容
 
-![alt text](/static/ distview.png)
+![alt text](/static/distview.png)
 
 ### 添加模版项目
 
