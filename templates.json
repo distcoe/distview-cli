@@ -3,10 +3,6 @@
     "distviewTemplate": {
       "url": "https://github.com/distcoe/quark.git",
       "branch": "master"
-    },
-    "testTemplate": {
-      "url": "https://github.com/distcoe/quark.git",
-      "branch": "master"
     }
   }
 }
