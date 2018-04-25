@@ -13,12 +13,12 @@
 
 ### 添加模版项目
 
-`distview add`
+`quark-cli add`
 
 ![alt text](/static/distview-add.png)
 
 ### 初始化项目
 
-`distview init`
+`quark-cli init`
 
 ![alt text](/static/distview-init.png)
